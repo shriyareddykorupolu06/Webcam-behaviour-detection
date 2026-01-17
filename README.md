@@ -20,4 +20,4 @@ Implementation and testing done by me with AI assistance.
 Real-time emotion detection using TensorFlow.js
 Attention or drowsiness tracking
 Logging activity/emotion history over time
-Optional: add animated GIFs or screenshots to demonstrate detection
+Will extended to detect multiple emotions: Happy, Sad, Angry,etc.
